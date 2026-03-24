@@ -1,6 +1,8 @@
 # SocialBoost SaaS
 
 [![tests](https://github.com/DYBInh2k5/SocialBoost-SaaS/actions/workflows/tests.yml/badge.svg)](https://github.com/DYBInh2k5/SocialBoost-SaaS/actions/workflows/tests.yml)
+[![license](https://img.shields.io/github/license/DYBInh2k5/SocialBoost-SaaS)](LICENSE)
+[![last-commit](https://img.shields.io/github/last-commit/DYBInh2k5/SocialBoost-SaaS)](https://github.com/DYBInh2k5/SocialBoost-SaaS/commits/main)
 
 Nen tang SaaS quan ly noi dung AI cho social media, xay dung bang Laravel.
 
@@ -109,9 +111,14 @@ Lenh scheduler se goi posts:dispatch-scheduled moi phut.
 
 Xem huong dan tung buoc tai file GITHUB_RELEASE_CHECKLIST.md.
 
+## Changelog
+
+Xem lich su thay doi tai file CHANGELOG.md.
+
 ## Dong gop
 
 Xem huong dan dong gop tai file CONTRIBUTING.md.
+Template Issues va Pull Request duoc dat trong thu muc .github.
 
 ## License
 
