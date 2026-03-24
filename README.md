@@ -1,5 +1,7 @@
 # SocialBoost SaaS
 
+[![tests](https://github.com/DYBInh2k5/SocialBoost-SaaS/actions/workflows/tests.yml/badge.svg)](https://github.com/DYBInh2k5/SocialBoost-SaaS/actions/workflows/tests.yml)
+
 Nen tang SaaS quan ly noi dung AI cho social media, xay dung bang Laravel.
 
 Muc tieu MVP:
@@ -106,3 +108,11 @@ Lenh scheduler se goi posts:dispatch-scheduled moi phut.
 ## Dua len GitHub
 
 Xem huong dan tung buoc tai file GITHUB_RELEASE_CHECKLIST.md.
+
+## Dong gop
+
+Xem huong dan dong gop tai file CONTRIBUTING.md.
+
+## License
+
+Du an su dung MIT License. Xem file LICENSE.
