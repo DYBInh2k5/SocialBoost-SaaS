@@ -46,6 +46,7 @@ Muc tieu MVP:
 ## Kien truc nhanh
 
 - Backend: Laravel 13
+- PHP: >= 8.4
 - Frontend: Blade + Tailwind
 - Database: SQLite (mac dinh)
 - Queue: database
